@@ -1,0 +1,119 @@
+{
+  "hero": {
+    "title": "Hi, I'm Amine Mabrouk",
+    "subtitle": "Data Science Student & Full Stack Developer",
+    "description": "Passionate about Machine Learning, Data Science, and Software Development. Currently studying at ISAMM.",
+    "contact": {
+      "location": "Bizerte, Tunisia",
+      "phone": "+216 92 592 987",
+      "email": "aminemabrouk@example.com"
+    }
+  },
+  "highlights": {
+    "title": "Key Highlights",
+    "education": {
+      "title": "Education",
+      "description": "Data Science Student at ISAMM with focus on machine learning and statistical analysis."
+    },
+    "technicalSkills": {
+      "title": "Technical Skills",
+      "description": "Proficient in Python, SQL, and various data science libraries and frameworks."
+    },
+    "dataAnalysis": {
+      "title": "Data Analysis",
+      "description": "Experience in data preprocessing, visualization, and predictive modeling."
+    },
+    "problemSolving": {
+      "title": "Problem Solving",
+      "description": "Strong analytical mindset with a passion for solving complex data challenges."
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "webDev": {
+      "title": "Web Development",
+      "items": [
+        "Laravel",
+        "Angular",
+        "Spring Boot",
+        "React.js",
+        "Node.js"
+      ]
+    },
+    "machineLearning": {
+      "title": "Machine Learning & Deep Learning",
+      "items": [
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "Scikit-learn",
+        "Ensemble Learning"
+      ]
+    },
+    "nlpVision": {
+      "title": "NLP & Computer Vision",
+      "items": [
+        "Natural Language Processing",
+        "Computer Vision",
+        "Image Recognition",
+        "Text Analysis",
+        "Transformers"
+      ]
+    }
+  },
+  "experience": {
+    "title": "Experience & Education",
+    "internshipInfraway2024": {
+      "title": "Intern at Infraway",
+      "description": [
+        "Creating a prediction tool for key indicators (ACRs, ACDs, total calls, and balance)",
+        "Developing a visualization interface for trend analysis",
+        "Performance optimization based on provided predictions"
+      ]
+    },
+    "internshipInfraway2023": {
+      "title": "Intern at Infraway",
+      "description": [
+        "Design and deployment of an interactive dashboard using Grafana, Flask API, Python, and SQL",
+        "Real-time data visualization and analysis",
+        "Streamlining decision-making processes"
+      ]
+    },
+    "engineering": {
+      "title": "Computer Engineering Degree",
+      "description": [
+        "Specialization in data engineering",
+        "Focus on machine learning and AI",
+        "Practical data analysis projects"
+      ]
+    },
+    "preparatory": {
+      "title": "Integrated Preparatory Cycle",
+      "description": [
+        "Mathematics and physics training",
+        "Preparation for engineering cycle",
+        "Development of fundamental skills"
+      ]
+    },
+    "bac": {
+      "title": "Mathematics Baccalaureate",
+      "description": [
+        "Mathematics specialization",
+        "Academic excellence",
+        "Strong foundation for higher education"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "viewGithub": "View on GitHub",
+    "viewDemo": "View Demo"
+  },
+  "certifications": {
+    "title": "Certifications"
+  },
+  "language": {
+    "en": "English",
+    "fr": "French"
+  }
+}

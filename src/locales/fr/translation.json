@@ -1,0 +1,119 @@
+{
+  "hero": {
+    "title": "Bonjour, je suis Amine Mabrouk",
+    "subtitle": "Étudiant en Science des Données & Développeur Full Stack",
+    "description": "Passionné par le Machine Learning, la Science des Données et le Développement Logiciel. Actuellement étudiant à l'ISAMM.",
+    "contact": {
+      "location": "Bizerte, Tunisie",
+      "phone": "+216 92 592 987",
+      "email": "aminemabrouk@example.com"
+    }
+  },
+  "highlights": {
+    "title": "Points Clés",
+    "education": {
+      "title": "Formation",
+      "description": "Étudiant en Science des Données à l'ISAMM, spécialisé en apprentissage automatique et analyse statistique."
+    },
+    "technicalSkills": {
+      "title": "Compétences Techniques",
+      "description": "Maîtrise de Python, SQL et diverses bibliothèques et frameworks de science des données."
+    },
+    "dataAnalysis": {
+      "title": "Analyse de Données",
+      "description": "Expérience en prétraitement des données, visualisation et modélisation prédictive."
+    },
+    "problemSolving": {
+      "title": "Résolution de Problèmes",
+      "description": "Esprit analytique fort avec une passion pour la résolution de défis complexes en données."
+    }
+  },
+  "skills": {
+    "title": "Compétences",
+    "webDev": {
+      "title": "Développement Web",
+      "items": [
+        "Laravel",
+        "Angular",
+        "Spring Boot",
+        "React.js",
+        "Node.js"
+      ]
+    },
+    "machineLearning": {
+      "title": "Machine Learning & Deep Learning",
+      "items": [
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "Scikit-learn",
+        "Apprentissage d'Ensemble"
+      ]
+    },
+    "nlpVision": {
+      "title": "NLP & Vision par Ordinateur",
+      "items": [
+        "Traitement du Langage Naturel",
+        "Vision par Ordinateur",
+        "Reconnaissance d'Image",
+        "Analyse de Texte",
+        "Transformers"
+      ]
+    }
+  },
+  "experience": {
+    "title": "Expérience & Formation",
+    "internshipInfraway2024": {
+      "title": "Stagiaire chez Infraway",
+      "description": [
+        "Création d'un outil de prédiction pour les indicateurs clés (ACRs, ACDs, total des appels et balance)",
+        "Développement d'une interface de visualisation pour l'analyse des tendances",
+        "Optimisation des performances basée sur les prédictions fournies"
+      ]
+    },
+    "internshipInfraway2023": {
+      "title": "Stagiaire chez Infraway",
+      "description": [
+        "Conception et déploiement d'un tableau de bord interactif avec Grafana, Flask API, Python et SQL",
+        "Visualisation et analyse en temps réel des données",
+        "Rationalisation des processus de prise de décision"
+      ]
+    },
+    "engineering": {
+      "title": "Cycle d'Ingénieur en Informatique",
+      "description": [
+        "Spécialisation en ingénierie des données",
+        "Focus sur le machine learning et l'IA",
+        "Projets pratiques en analyse de données"
+      ]
+    },
+    "preparatory": {
+      "title": "Cycle Préparatoire Intégré",
+      "description": [
+        "Formation en mathématiques et physique",
+        "Préparation au cycle d'ingénieur",
+        "Développement des compétences fondamentales"
+      ]
+    },
+    "bac": {
+      "title": "Bac Mathématiques",
+      "description": [
+        "Spécialisation en mathématiques",
+        "Excellence académique",
+        "Base solide pour les études supérieures"
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projets",
+    "viewGithub": "Voir sur GitHub",
+    "viewDemo": "Voir la Démo"
+  },
+  "certifications": {
+    "title": "Certifications"
+  },
+  "language": {
+    "en": "Anglais",
+    "fr": "Français"
+  }
+}
